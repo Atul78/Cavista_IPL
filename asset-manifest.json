@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cavista_IPL/static/css/main.06bc04ff.css",
+    "main.js": "/Cavista_IPL/static/js/main.0f17cd02.js",
+    "static/media/PUNJAB.png": "/Cavista_IPL/static/media/PUNJAB.3d5956b0685db4da51a1.png",
+    "static/media/MI.png": "/Cavista_IPL/static/media/MI.60b13be15224a26ccbe7.png",
+    "static/media/RR.png": "/Cavista_IPL/static/media/RR.a4af7055b57d79194904.png",
+    "static/media/CSK.png": "/Cavista_IPL/static/media/CSK.b0df9f873984ba2b184a.png",
+    "static/media/DC.png": "/Cavista_IPL/static/media/DC.a056402c5452882415cc.png",
+    "static/media/logo.png": "/Cavista_IPL/static/media/logo.292ff9fc695d1f1f6d3f.png",
+    "static/media/SRH.png": "/Cavista_IPL/static/media/SRH.c4178b342469578ea1fe.png",
+    "index.html": "/Cavista_IPL/index.html",
+    "main.06bc04ff.css.map": "/Cavista_IPL/static/css/main.06bc04ff.css.map",
+    "main.0f17cd02.js.map": "/Cavista_IPL/static/js/main.0f17cd02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06bc04ff.css",
+    "static/js/main.0f17cd02.js"
+  ]
+}
